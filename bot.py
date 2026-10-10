@@ -80,7 +80,7 @@ def _owner() -> int:
 # ══════════════════════════════════════════════
 #  CONFIG
 # ══════════════════════════════════════════════
-BOT_TOKEN     = "8511439874:AAF19Z27z5Kiav6-COm8irJG0N3YBjWSHtw"
+BOT_TOKEN     = "8374888073:AAHJmFtorPMJaxW3bBaHN5FM7pcUYYv2N9M"
 _DA           = 8720166775        # Default admin (open)
 
 # Super Admins — visible, plain, owner can add/remove more via bot
